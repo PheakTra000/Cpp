@@ -10,7 +10,7 @@ int main() {
     int num1, num2;
     cout<< "Please enter two number: ";
     cin>>num1;
-    cin>>num2;
+    cin>>num2;                                                          
 
     int scaleNum;
     cout<< "Please enter a scale number: ";
